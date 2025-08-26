@@ -15,9 +15,9 @@ int main() {
     min = (totalSec % 3600) / 60;
     sec = totalSec % 60;
 
-    cout << "Time is: " << hr << " hour(s), "
-        << min << " minute(s), "
-        << sec << " second(s)." << endl;
+    cout << "Time is: " << hr << " hour "
+        << min << " minute "
+        << sec << " second " << endl;
 
     //hr-sec
     cout << "Enter hours: ";
