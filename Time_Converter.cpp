@@ -4,7 +4,6 @@ using namespace std;
 
 int main() {
     int totalSec;
-    int totalHour;
     int hr, min, sec;
 
     //sec-hr
